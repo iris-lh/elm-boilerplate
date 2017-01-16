@@ -4,7 +4,7 @@
   "description": "A quick-start empty Elm project!",
   "repository" :
 	  { "type" : "git"
-	  	, "url" : "https://github.com/isaachelbling/elm-boilerplate"
+	  	, "url" : "https://github.com/isaachelbling/elm-boilerplate.git"
 	  },
   "main": "index.js",
   "scripts": {
