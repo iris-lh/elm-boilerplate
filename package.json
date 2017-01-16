@@ -1,0 +1,17 @@
+{
+  "name": "elm-boilerplate",
+  "version": "1.0.0",
+  "description": "A quick-start empty Elm project!",
+  "repository" :
+	  { "type" : "git"
+	  	, "url" : "https://github.com/isaachelbling/elm-boilerplate"
+	  },
+  "main": "index.js",
+  "scripts": {
+  	"build": "elm-make src/Index.elm --output=js/index.js",
+  	"start": "elm-live src/Index.elm --output=js/index.js --open",
+    "test": "elm-test"
+  },
+  "author": "Isaac Helbling",
+  "license": "ISC"
+}
